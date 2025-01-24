@@ -294,7 +294,7 @@ const Migrate = () => {
       {/* Display default content if no country selected */}
       {!selectedCountry ? (
          <div>
-          <Canadastudent />
+          <Canadafs />
         
        </div>
        

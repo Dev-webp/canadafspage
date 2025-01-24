@@ -69,7 +69,7 @@ const ContactPage = () => {
               variants={titleVariants}
             >
               <span className="text-transparent bg-clip-text bg-gradient-to-tr from-black to-black mt-6">
-                Migrate to Canada Student Visa
+                Migrate to Canada Family Sponsorship Visa
               </span>
             </motion.h1>
             <motion.p
